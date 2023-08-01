@@ -1,4 +1,4 @@
-# Pandoras Key
+# Pandora's Key
 Uses OpenAI to generate pseudocode for x86
 
 <p align="center" width="100%">
