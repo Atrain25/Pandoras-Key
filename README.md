@@ -1,4 +1,4 @@
-# x86-Disassembler-Decompiler-using-OpenAI
+# Pandora Breaker
 Uses OpenAI to generate pseudocode for x86
 
 <p align="center" width="100%">
